@@ -8,9 +8,7 @@ Previously, I spent a number of years as an analyst for e-commerce companies lik
 
 * [fivetran/dbt_hubspot_source](https://github.com/fivetran/dbt_hubspot_source)
   * Service Hub Models (Tickets)
-  * Other Enhancements
 * [fivetran/dbt_quickbooks_source](https://github.com/fivetran/dbt_quickbooks_source)
   *  Purchase Order Models
-  *  Other Enhancements
 * [fivetran/dbt_netsuite_source](https://github.com/fivetran/dbt_netsuite_source)
   *  Netsuite2 Schema Support
