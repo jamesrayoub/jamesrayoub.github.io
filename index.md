@@ -4,6 +4,8 @@ Currently leading data platform efforts at Dandelion Energy with a particular fo
 
 Previously, I spent a number of years as an analyst for e-commerce companies like Rent-the-Runway, Plated, and Graze focused on supply chain/operations problems which was my undergraduate focus.
 
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/jamesayoub).
+
 # Open Source Contributions
 
 * [fivetran/dbt_hubspot_source](https://github.com/fivetran/dbt_hubspot_source)
@@ -11,4 +13,4 @@ Previously, I spent a number of years as an analyst for e-commerce companies lik
 * [fivetran/dbt_quickbooks_source](https://github.com/fivetran/dbt_quickbooks_source)
   *  Purchase Order Models
 * [fivetran/dbt_netsuite_source](https://github.com/fivetran/dbt_netsuite_source)
-  *  Netsuite2 Schema Support
+  *  Netsuite2 Schema Models
